@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.color{
+    width: 99vw;
+    height: 50vw;
+    background: rgba(0, 128, 0, 0.596);
+}
+
+.text{
+    margin-left: 5%;
+    text-align: center;
+    color: white;
+    margin-top: 9em;
+    margin-bottom: 4em;
+}
+
+.color h2{
+    font-size: 1px;
+}
+
+.text h1{
+    font-size: 2.9em
+}
+
+.form{
+    margin-left: 35%;
+    background: white;
+    border-radius: 13px;
+    width: 30vw;
+    height: 40vw;
+    padding: 2em;
+}
+
+.form p{
+    margin: 1em;
+    margin-left: 2px;
+    margin-bottom: 1px;
+}
+.form h4{
+    margin-top: 30px;
+}
+
+.form h4 a{
+    text-decoration: none;
+    color: black;
+}
+
+.form button{
+    margin-top: 2em;
+    padding: 5px 40%;
+    border-radius: 2000px;
+    background: rgb(223, 21, 21);
+    border: none;
+}
+
+input{
+    width: 30vw;
+    height: 5vw;
+}
